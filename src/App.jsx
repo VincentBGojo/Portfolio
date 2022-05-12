@@ -10,6 +10,7 @@ import Footer from './components/footer/Footer'
 
 const App = () => {
   return (
+    //We call all our React components
     <>
       <Header />
       <Nav />
