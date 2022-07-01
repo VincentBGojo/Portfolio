@@ -44,6 +44,12 @@ const Experience = () => {
               <h4>Redux</h4>
               </div>
             </article>
+            <article className='experience__details'>
+              <BsPatchCheckFill className="experience__details-icon" />
+              <div>
+              <h4>Accessibilité</h4>
+              </div>
+            </article>
 
           </div>
         </div>
